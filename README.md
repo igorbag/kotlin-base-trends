@@ -1,7 +1,7 @@
 # kotlin-base-trends
  Initial design for implementation of mobile development trends using Kotlin
 
-Projeto base de Kotlin utilizando conceitos que estão em tendencia.
+Kotlin's base project on concepts that are in trend.
 - Mvp Design Pattern
 - DI with Dagger 2
 - Kotlin Android Extensions: Say goodbye to findViewById 
