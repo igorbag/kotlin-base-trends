@@ -7,3 +7,5 @@ Kotlin's base project on concepts that are in trend.
 - Kotlin Android Extensions: Say goodbye to findViewById 
 - Courotines
 - Constraint Layout
+- Material Design Components V2
+- Android Architeture Components
