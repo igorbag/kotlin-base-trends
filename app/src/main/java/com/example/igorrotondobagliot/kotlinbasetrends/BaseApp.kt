@@ -6,7 +6,7 @@ import com.example.igorrotondobagliot.kotlinbasetrends.di.component.DaggerApplic
 import com.example.igorrotondobagliot.kotlinbasetrends.di.module.ApplicationModule
 
 /**
- * Created by ogulcan on 07/02/2018.
+ * Created by Igor Rotondo Bagliot on 17/09/2018.
  */
 class BaseApp : Application() {
 
